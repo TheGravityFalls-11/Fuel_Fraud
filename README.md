@@ -36,10 +36,10 @@ Fuel Fraud Detection System is an end-to-end solution that combines a hardware s
 5. Results are visualized on the web dashboard
 
 
+## 📸 Screenshots
 
 
 
-##📸 Screenshots
 
 
 ##📊 Use Cases
