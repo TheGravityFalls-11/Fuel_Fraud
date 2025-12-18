@@ -39,6 +39,11 @@ Fuel Fraud Detection System is an end-to-end solution that combines a hardware s
 ## 📸 Screenshots
 ![DashBoard](https://github.com/user-attachments/assets/19c90858-68fd-4bfe-b676-01eabb86a70b)
 
+![fuel_station](<img width="1835" height="1038" alt="Image" src="https://github.com/user-attachments/assets/b2ea9ad2-1e6c-4095-9ac3-43737f887115" />
+)
+
+<img width="1835" height="1038" alt="Image" src="https://github.com/user-attachments/assets/b2ea9ad2-1e6c-4095-9ac3-43737f887115" />
+
 
 
 
