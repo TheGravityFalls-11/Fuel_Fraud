@@ -40,27 +40,19 @@ Fuel Fraud Detection System is an end-to-end solution that combines a hardware s
 
 
 
+## 📊 Use Cases
+1. Fuel stations and petrol pumps
+2. Transport and logistics fleets
+3. Government fuel monitoring systems
+
+## 🔮 Future Enhancements
+1.Real-time alert system
+2. Cloud-based analytics
+3. Advanced deep learning models
+4. Blockchain-based secure logging
 
 
-##📊 Use Cases
-Fuel stations and petrol pumps
-
-Transport and logistics fleets
-
-Oil distribution companies
-
-Government fuel monitoring systems
-
-🔮 Future Enhancements
-Real-time alert system
-
-Cloud-based analytics
-
-Advanced deep learning models
-
-Blockchain-based secure logging
-
-##📜 License
+## 📜 License
 This project is licensed under the MIT License and is free to use, modify, and distribute for personal, academic, and commercial purposes.
 
 
