@@ -37,6 +37,8 @@ Fuel Fraud Detection System is an end-to-end solution that combines a hardware s
 
 
 ## 📸 Screenshots
+![DashBoard](https://github.com/user-attachments/assets/19c90858-68fd-4bfe-b676-01eabb86a70b)
+
 
 
 
@@ -46,7 +48,7 @@ Fuel Fraud Detection System is an end-to-end solution that combines a hardware s
 3. Government fuel monitoring systems
 
 ## 🔮 Future Enhancements
-1.Real-time alert system
+1. Real-time alert system
 2. Cloud-based analytics
 3. Advanced deep learning models
 4. Blockchain-based secure logging
